@@ -31,7 +31,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Ethir parathathai ethir parungal  !"{" "}
           </p>
-          <footer className="blockquote-footer">By Anadavar </footer>
+          <footer className="blockquote-footer">By Aandavar</footer>
         </blockquote>
       </Card.Body>
     </Card>
